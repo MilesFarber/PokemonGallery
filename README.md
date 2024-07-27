@@ -5,3 +5,5 @@ Github cannot display more than 1000 files in one folder from the web browser, s
 Make sure you have at least 5GB of free space even if the repository is much smaller.
 
 This repository would have never been possible without https://github.com/Taicanium/DreamDownloader, go star it now you blithering witless dishcloth
+
+![Lewtwo national dex](https://github.com/user-attachments/assets/7ebb85f6-7718-469f-90d1-901d1a2ed718)
